@@ -163,7 +163,7 @@ The `artifacts/model_data.joblib` file stores a dictionary with:
 ## 🙋 Author
 
 **Abhishek**
-- GitHub: [@your-username](https://github.com/your-username)
+- GitHub: [@your-username](https://github.com/Abhishekdwivedi111)
 
 ---
 
